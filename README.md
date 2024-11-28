@@ -84,6 +84,8 @@ If you don't want to install the dependencies on your system, this can also be o
 At a command prompt, run
 
 ```bash
+sudo apt-get install texlive-xelatex
+sudo apt-get install texlive-fonts-extra
 xelatex {your-cv}.tex
 ```
 
